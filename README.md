@@ -1,4 +1,4 @@
-Hello, I'm Ernon Filipe
+## Hello! I'm Ernon Filipe 💻
 
 - 🔭 Mechanical Engineer and Systems analyst and developer
 - 🌱 I'm currently learning Data Science and Machine Learning
